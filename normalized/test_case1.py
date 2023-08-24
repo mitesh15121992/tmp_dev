@@ -1,7 +1,5 @@
 import unittest
-
-from normalized import sum
-
+import sum_test
 
 class TestSum(unittest.TestCase):
     def test_list_int(self):
